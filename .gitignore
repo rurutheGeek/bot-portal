@@ -1,0 +1,6 @@
+# 実行時に出来るもの。リポジトリには入れない。
+__pycache__/
+*.py[cod]
+.venv/
+.env
+storage/
